@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <!-- Trying to solve problems pythonically! -->
 
 
-[![Twitter](https://img.shields.io/badge/-Twitter-blue?&logo=Github&logoColor=wh)](https://twitter.com/tinachandwani)
+
 [![Github](https://img.shields.io/badge/-Github-000?&logo=Github&logoColor=white)](https://github.com/TinaChandwani)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?&logo=Linkedin&logoColor=white)](https://linkedin.com/in/tina-chandwani-33057a179)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?&logo=Gmail&logoColor=white)](mailto:tinachandwani3017@gmail.com)
