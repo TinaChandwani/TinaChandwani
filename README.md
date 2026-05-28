@@ -1,31 +1,26 @@
-### Hi there 👋 I am Tina Chandwani
+# Hey, I'm Tina 👋 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/tina-chandwani-33057a179) [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:tchandwa@usc.edu)
 
-<!--
-**TinaChandwani/TinaChandwani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend · Data · ML Engineer. I build things that move data fast, make LLMs useful, and don't fall over in production. USC MS CS (Dec 2025) — open to SWE / Backend / Data roles.
 
-Here are some ideas to get you started:
+Currently grinding LeetCode. Graphs and DP are humbling me daily 🫠
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
 
+```python
+stack = {
+    "languages":  ["Python", "Go", "C", "Java", "TypeScript", "SQL"],
+    "data":        ["PySpark", "Spark", "Parquet", "ETL at scale"],
+    "llm_ml":      ["LangChain", "RAG pipelines", "PyTorch", "HuggingFace"],
+    "backend":     ["FastAPI", "Node.js", "GraphQL", "REST"],
+    "infra":       ["Kubernetes", "Docker", "Terraform", "AWS", "GCP"],
+    "databases":   ["PostgreSQL", "MongoDB", "MySQL", "Redis"],
+}
+```
 
+---
 
-<!-- Trying to solve problems pythonically! -->
+## things i've built
 
-
-
-[![Github](https://img.shields.io/badge/-Github-000?&logo=Github&logoColor=white)](https://github.com/TinaChandwani)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?&logo=Linkedin&logoColor=white)](https://linkedin.com/in/tina-chandwani-33057a179)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?&logo=Gmail&logoColor=white)](mailto:tinachandwani3017@gmail.com)
-
-
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TinaChandwani&layout=compact&hide=html&theme=blue-green" alt="TinaChandwani" />
-
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=TinaChandwani&show_icons=true&theme=blue-green" alt="TinaChandwani" />
+- **url-shortener-go** — RESTful URL shortener in Go with Redis rate limiting and real-time click tracking
+- **llm-inference-router** — dynamic router across LLM providers (OpenAI, Anthropic, HuggingFace) optimizing for latency and cost
+- **weenix-os** — UNIX-like kernel in C with preemptive threading, virtual memory, and a VFS layer. built it from scratch. would not do again
